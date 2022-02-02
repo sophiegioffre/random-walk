@@ -1,0 +1,12 @@
+#area {
+    position: relative;
+    background-color:azure;
+    margin: 1em auto;
+}
+
+.ball {
+    background-color: cornflowerblue;
+    position: absolute;
+    display: inline-block;
+    border-radius: 50%;
+}
